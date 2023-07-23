@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/gr33nm0nk2802/mailMeta/blob/main/LICENSE)
 [![Pull Requests](https://img.shields.io/badge/PullRequests-accepted-green.svg)](https://shields.io/)
 [![Py Version](https://img.shields.io/badge/Python-3.8.5-green.svg)](https://shields.io/)
-![Demo Youtube](https://camo.githubusercontent.com/80760ab9f96d5aae23525bf95b1fddf638860c80f80100a963ae61bb80ec4dc6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f64656d6f2d796f75747562652d626c75652e737667)
+
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A forensic tool to make analysis of email headers easy to aid in the quick discovery of the attacker. 
 
