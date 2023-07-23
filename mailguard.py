@@ -14,7 +14,7 @@ print(Fore.GREEN+"""
                                               
 	    	 Made by Mayank Rajput ⊙ NonRootedInsaan ⊙                                     
    
-   A tool to analyze email to identify spoofed emails 
+This is a forensic tool designed to facilitate the analysis of email headers, streamlining the process of identifying attackers swiftly. 
 	""")
 
 parser = argparse.ArgumentParser()
