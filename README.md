@@ -52,7 +52,7 @@ You have two methods to use MailGuard. Either you can download the github repo a
 1. Clone the repository
 
   ```(bash)
-    git clone https://github.com/hackelite01/MailGuard
+    git clone https://github.com/hackelite01/mailguard
   ```
 
 2.  Running from the mailguard.py file
@@ -63,7 +63,7 @@ You have two methods to use MailGuard. Either you can download the github repo a
   ```
 <br>
 
-Additionally you can directly download the executable from the [Releases](https://github.com/hackelite01/MailGuard/releases/tag/1.0.0) and use them.
+Additionally you can directly download the executable from the [Releases](https://github.com/hackelite01/mailguard/releases/tag/1.0.0) and use them.
 <br>
 
 ## Usage
@@ -88,7 +88,7 @@ or
 2. Downloading the `MailGuard` executable for linux and giving it executable permissions. Then supplying the eml file to the pre-compiled binary. (No dependencies)
 
 ```
-wget https://github.com/hackelite01/MailGuard/releases/download/1.0.0/meta
+wget https://github.com/hackelite01/mailguard/releases/download/1.0.0/meta
 chmod +x mailguard
 mailguard -f message.eml
 ```
@@ -100,7 +100,7 @@ mailguard -f message.eml
 1. Executing the precompiled binaries downloaded from the releases page. (No dependencies needed)
 
 ```
-MailGuard.exe -f .\message.eml
+mailguard.exe -f .\message.eml
 ```
 
 
@@ -118,4 +118,4 @@ python3 mailguard.py -f message.eml
 
 ## License
 
-This project is licensed under the [MIT license](https://github.com/hackelite01/MailGuard/blob/main/LICENSE).
+This project is licensed under the [MIT license](https://github.com/hackelite01/mailguard/blob/main/LICENSE).
