@@ -7,7 +7,7 @@
 [![Py Version](https://img.shields.io/badge/Python-3.8.5-green.svg)](https://shields.io/)
 
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A forensic tool to make analysis of email headers easy to aid in the quick discovery of the attacker. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is a forensic tool designed to facilitate the analysis of email headers, streamlining the process of identifying attackers swiftly. 
 
 
 # Table of Contents
