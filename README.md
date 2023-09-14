@@ -1,6 +1,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Stars](https://imailguard.shields.io/github/stars/gr33nm0nk2802/mailMeta?style=flat)
+![Stars](https://imailguard.shields.io/github/stars/hackelite01/mailguard?style=flat)
 [![Category](https://img.shields.io/badge/Category-OSINT-green.svg)](https://shields.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/gr33nm0nk2802/mailMeta/blob/main/LICENSE)
 [![Pull Requests](https://img.shields.io/badge/PullRequests-accepted-green.svg)](https://shields.io/)
